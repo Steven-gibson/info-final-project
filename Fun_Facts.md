@@ -1,10 +1,10 @@
-#Fun Facts about Cannabis
-##_Links to other pages_
-[Read Me](README.md)
-[Simple Way of life](simple_life.md)
-[Mountians](Mountianviews.md)
-[My Code](MyCode.md)
-[Fun Facts](Fun_Facts.md)
+# Fun Facts about Cannabis
+## _Links to other pages_
+- [Read Me](README.md)
+- [Simple Way of life](simple_life.md)
+- [Mountians](Mountianviews.md)
+- [My Code](MyCode.md)
+- [Fun Facts](Fun_Facts.md)
 
 - Marijuana is the most commonly used illegal drug in the United States, with approximately 22.2 million users each month.
 - Marijuana use directly affects the brain — specifically the parts of the brain responsible for memory, learning, attention, decision making, coordination, emotions, and reaction time. Developing brains, like those in babies, children, and teens, are especially susceptible to the adverse effects of marijuana
