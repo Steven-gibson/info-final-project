@@ -1,10 +1,10 @@
 # My Code from my 1040 class
 ## _Links to other pages_
-[Read Me,](README.md)
-[Simple Way of life,](simple_life.md)
-[Mountians,](Mountianviews.md)
-[My Code,](MyCode.md)
-[Fun Facts](Fun_Facts.md)
+- [Read Me,](README.md)
+- [Simple Way of life,](simple_life.md)
+- [Mountians,](Mountianviews.md)
+- [My Code,](MyCode.md)
+- [Fun Facts](Fun_Facts.md)
 
     from collections import Counter
     def main():
