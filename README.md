@@ -1,13 +1,13 @@
-# info-final-project
-##**Welcome to the page of very unrelated things that lead to anywhere than where you think!**
-##_Links to other pages_
+# Info Final Project
+## **Welcome to the page of very unrelated things that lead to anywhere than where you think!**
+## _Links to other pages_
 [Read Me](README.md)
 [Simple Way of life](simple_life.md)
 [Mountians](Mountianviews.md)
 [My Code](MyCode.md)
 [Fun Facts](Fun_Facts.md)
 
-##Best Quotes of all time
+## Best Quotes of all time
 - “Oh man, we're doin this shit like Dukes of Hazard style!” -Tyrese Gibson
 - "I'm about to do to you what Limp Bizkit did to music in the late '90s."- Deadpool
 - "Martini. Gin, not vodka. Obviously. Stirred for 10 seconds while glancing at an unopened bottle of vermouth."- Taron Egerton
