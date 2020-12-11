@@ -5,7 +5,7 @@
 
 ![On Top!](https://cosmosmagazine.com/wp-content/uploads/2020/02/190218-mount-full-1440x810.jpg)
 
-![WaterFall](IMG_3251.pdf)
+![WaterFall](https://miro.medium.com/max/10368/1*an7X6yxD1YrMQVTaIg3uWw.jpeg)
 
 ##_Links to other pages_
 [Read Me](README.md)
