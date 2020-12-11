@@ -1,9 +1,11 @@
 #Mountain Views
 ![Valley](https://www.theuiaa.org/wp-content/uploads/2017/12/2018_banner.jpg)
 
-![Waterfall](/https://drive.google.com/file/d/19lvBK3mHjWIsNDjrdx_a4imv8rQFIkKN/view?usp=sharing/to/img.jpg "Water Fall")
+![Waterfall](https://miro.medium.com/max/10368/1*an7X6yxD1YrMQVTaIg3uWw.jpeg)
 
-![On Top!](/https://drive.google.com/file/d/1A01EfRpVPmCngroDxNJkXQGsYVd0aATb/view?usp=sharing/to/img.jpg "On the Top")
+![On Top!](https://cosmosmagazine.com/wp-content/uploads/2020/02/190218-mount-full-1440x810.jpg)
+
+![WaterFall](IMG_3251.pdf)
 
 ##_Links to other pages_
 [Read Me](README.md)
