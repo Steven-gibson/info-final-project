@@ -1,5 +1,5 @@
 # My Code from my 1040 class
-## _ Links to other pages _
+## _Links to other pages_
 [Read Me,](README.md)
 [Simple Way of life,](simple_life.md)
 [Mountians,](Mountianviews.md)
